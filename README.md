@@ -100,4 +100,4 @@ Using geospatial mapping for delivery hotspots.
 
 👉 This project highlights how Power BI can be applied to the food-tech industry to improve customer satisfaction, boost sales, and refine strategy.
 
-Example : 
+Example : https://github.com/krushnashirsath07/Zomato-Analytics-Dashboard/blob/main/Overview.png
